@@ -1,10 +1,6 @@
 var config = {
-  'rulePath': '../../lib/rules/',
-  'enabledRules': [
-    'RuleBgCasual',
-    'RuleBgGulbara',
-    'RuleBgTapa'
-  ]
+  rulePath: "../../lib/rules/",
+  enabledRules: ["RuleBgCasual"],
 };
 
 module.exports = config;
